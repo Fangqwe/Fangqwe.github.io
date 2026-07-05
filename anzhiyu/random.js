@@ -1,3 +1,3 @@
-var posts=["2026/07/05/测试-1783240079771/"];function toRandomPost(){
+var posts=["2026/07/05/Hexo常用命令/"];function toRandomPost(){
     pjax.loadUrl('/'+posts[Math.floor(Math.random() * posts.length)]);
   };
